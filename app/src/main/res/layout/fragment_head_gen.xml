@@ -1,0 +1,22 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="haykkh.android.personale.com.masterrec.head_gen"
+    android:background="#e1e42e"
+    android:textAlignment="center">
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:id="@+id/selecteddate"
+            android:layout_gravity="top|center_horizontal"
+            android:textColor="#156d18" />
+
+
+
+</FrameLayout>
